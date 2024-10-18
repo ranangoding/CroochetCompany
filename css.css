@@ -1,0 +1,251 @@
+body{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #FFD3B6;
+}
+
+header, footer {
+    float: left;
+    overflow: hidden;
+    margin: 0px;
+    width: 100%;
+    color: #1A3636;
+    text-align: justify;
+
+}
+
+nav, ul, li{
+    float: right;
+    list-style: none;
+}
+
+
+.headerkanan{
+    
+    width: 100%;
+    position: relative;
+    display: inline-block;
+}
+
+.header a.logo {
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+
+.headerkanan a{
+    color: #1A3636;
+    text-decoration: none;
+    padding: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    line-height: 90px;
+ 
+}
+
+.headerkanan a:hover {
+    background-color: #677D6A;
+    color: rgb(255, 255, 255);
+  }
+
+
+  .pembungkusluar{
+    margin-left: 10%;
+    width: 80%;
+    border-style:solid;
+    border-color: #40534C;
+  }
+
+.text1{
+    color: #1A3636;
+    text-align: center;
+}
+
+.button1{
+    text-decoration: none;
+    background-color: #677D6A;
+    border: none;
+    
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: monospace;
+    margin-left: 42%;
+}
+
+.gambar1{
+    position: absolute;
+    margin-left: 15%;
+}
+
+.pembungkus {
+    color: aliceblue;
+    position: absolute;
+    margin-bottom: 40%;
+    border: 1px solid #40534C;
+    width: 500px;
+    height: 600px;
+    background-color: #40534C;
+    margin-left: 45%;}
+
+.button2{
+    background-color: #FFD3B6;
+    border: none;
+        
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: monospace;
+    margin-left: 30px;
+}
+
+
+a {
+    text-decoration: none;
+}
+
+.a1{
+    color: white;
+}
+
+.a2{
+    color: #1A3636;
+}
+
+.text1{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.pembungkusberanda {
+    background-image:url(gambar/logoopacity.png) ;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+.hometext{
+
+    font-size: 150%;
+    color: #1A3636;
+    text-align: center;
+    font-family: Copperplate, Papyrus, fantasy;
+}
+
+.hometext2{
+    font-family: Copperplate, Papyrus, fantasy;
+    text-align: center;
+    font-size: 180%;
+    color:#1A3636;
+ 
+}
+
+.a12{
+    color: white;
+}
+
+.homebutton12{
+    
+    width: 115px;
+    background-color: #40534C;
+    text-decoration: none;
+    padding: 15px 32px;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: monospace;
+}
+
+.a123{
+    color: white;
+}
+
+.homebutton1{
+    
+    opacity: 0.8;
+    position: relative;
+    width: 115px;
+    margin-top: 250px;
+    margin-left: 370px;
+    background-color: #40534C;
+    text-decoration: none;
+    padding: 15px 32px;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: monospace;
+}
+
+.product1{
+    float: left;
+    border: solid #40534C;
+    background-color: #40534C;
+    width: 410px;
+    height: 410px;
+    margin-left: 90px;
+}
+
+.product2{
+    border: solid #40534C;
+    background-color: #40534C;
+    width: 410px;
+    height: 410px;
+}
+
+.product3{
+    margin-right:90px ;
+    border: solid #40534C;
+    background-color: #40534C;
+    width: 410px;
+    height: 410px;
+    float: right;
+}
+
+.fashion1{
+float: left;
+}
+
+.fash1{
+    font-family: Copperplate, Papyrus, fantasy;
+    color: #1A3636;
+    margin-left: 430px;
+    margin-top: 3%;
+}
+
+.fashion2{
+    margin-right: 30px;
+    float: right;
+}
+
+.fash2{
+    text-align: right;
+
+    float: right;
+    font-family: Copperplate, Papyrus, fantasy;
+    color: #1A3636;
+}
+
+.fashion3{
+    position: absolute;
+
+    margin-top: 820px;
+    margin-left: 1%;
+}
+
+.fash3{
+    position: absolute;
+    font-family: Copperplate, Papyrus, fantasy;
+    color: #1A3636;
+    margin-left: 430px;
+    margin-top: 820px;
+}
+
+.copyright{
+    margin-left: 40%;
+}
+
+hr {
+    border-color: #1A3636;
+}
+
+.hr2{
+    opacity: 0.3;
+}
